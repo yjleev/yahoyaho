@@ -1,0 +1,22 @@
+body {
+    background-color: skyblue;
+}
+
+h1 {
+    text-align: center;
+}
+
+.red {
+    color: red;
+    transition: 0.8s ease-in-out;
+}
+
+#dish {
+    width: 200px;
+    height: 100px;
+    background-color: gray;
+    transition: 4s ease-in-out;
+    border-radius: 100%;
+    margin: 0 auto;
+    margin-top: 35vh;
+}
